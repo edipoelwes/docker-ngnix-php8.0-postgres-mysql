@@ -1,4 +1,4 @@
-FROM devilbox/php-fpm-8.1:latest
+FROM devilbox/php-fpm-8.0:latest
 
 #mantenedor da imagem
 LABEL maintainer="Edipo Elwes"
